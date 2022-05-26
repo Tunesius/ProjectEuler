@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb1323a9-4a4e-459a-a3cc-553ffbf5d1ff" name="Changes" comment="Completed Task 11 :D">
-      <change afterPath="$PROJECT_DIR$/Problems/12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="bb1323a9-4a4e-459a-a3cc-553ffbf5d1ff" name="Changes" comment="Completed Task 12 :{" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -259,7 +256,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653585476932</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Completed Task 12 :{">
+      <created>1653587634478</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1653587634478</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -288,6 +292,7 @@
     <MESSAGE value="Completed Task 10 :D &#10;Takes a while to run though :/&#10;Also added text in File 7" />
     <MESSAGE value="Completed Task 10 :D&#10;Takes a while to run though :/" />
     <MESSAGE value="Completed Task 11 :D" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Task 11 :D" />
+    <MESSAGE value="Completed Task 12 :{" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Task 12 :{" />
   </component>
 </project>
