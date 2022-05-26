@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb1323a9-4a4e-459a-a3cc-553ffbf5d1ff" name="Changes" comment="Completed Task 9 :D">
-      <change afterPath="$PROJECT_DIR$/Problems/10.py" afterDir="false" />
+    <list default="true" id="bb1323a9-4a4e-459a-a3cc-553ffbf5d1ff" name="Changes" comment="Completed Task 10 :D&#10;Takes a while to run though :/">
+      <change afterPath="$PROJECT_DIR$/Problems/11.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/7.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +43,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.10">
+  <component name="RunManager" selected="Python.11">
     <configuration name="10" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -66,7 +65,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="ProjectEuler" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -78,7 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/6.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/11.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +151,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.11" />
         <item itemvalue="Python.10" />
         <item itemvalue="Python.9" />
         <item itemvalue="Python.8" />
         <item itemvalue="Python.7" />
-        <item itemvalue="Python.6" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1653578306033</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Completed Task 10 :D &#10;Takes a while to run though :/">
+      <created>1653579125387</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1653579125387</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Completed Task 10 :D&#10;Takes a while to run though :/">
+      <created>1653579238008</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1653579238008</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -264,6 +277,9 @@
     <MESSAGE value="Completed Task 7 :D" />
     <MESSAGE value="Completed Task 8 :D" />
     <MESSAGE value="Completed Task 9 :D" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Task 9 :D" />
+    <MESSAGE value="Completed Task 10 :D &#10;Takes a while to run though :/" />
+    <MESSAGE value="Completed Task 10 :D &#10;Takes a while to run though :/&#10;Also added text in File 7" />
+    <MESSAGE value="Completed Task 10 :D&#10;Takes a while to run though :/" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Task 10 :D&#10;Takes a while to run though :/" />
   </component>
 </project>
