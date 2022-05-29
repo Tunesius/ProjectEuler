@@ -12,3 +12,30 @@
 #
 # NOTE: Once the chain starts the terms are allowed to go above one million.
 
+def collatz(n):
+    if n % 2 == 0:
+        return n / 2
+    return 3*n + 1
+
+
+def give_collatz_count(n):
+    c = 1
+    while n != 1:
+        n = collatz(n)
+        c = c+1
+    return c
+
+
+def give_largest_collatz_number(n):
+    max_count = 0
+    max_number = 0
+    for i in range(1, n+1):
+        print(i)
+        count = give_collatz_count(i)
+        if count > max_count:
+            max_count = count
+            max_number = i
+    return max_number
+
+
+print(give_largest_collatz_number(1_000_000))
