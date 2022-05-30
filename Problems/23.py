@@ -96,7 +96,6 @@ def is_in_list(n, plist):
     return False
 
 
-
 abundant_number_list = give_abundant_numbers(28123-12)
 all_sums = make_set_to_list(give_all_sums(abundant_number_list))
 all_sums.sort()
