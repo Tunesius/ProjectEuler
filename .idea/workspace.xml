@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb1323a9-4a4e-459a-a3cc-553ffbf5d1ff" name="Changes" comment="Completed Task 23 YATTA">
-      <change afterPath="$PROJECT_DIR$/Problems/67.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/p018_triangle.txt" afterDir="false" />
+    <list default="true" id="bb1323a9-4a4e-459a-a3cc-553ffbf5d1ff" name="Changes" comment="Completed Tasks 18, 24, 67">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/18.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/18.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/24.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/24.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,17 +34,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/ProjekteProgrammieren/ProjectEuler/Problems",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ProjekteProgrammieren/ProjectEuler/Problems&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ProjekteProgrammieren\ProjectEuler\Problems" />
@@ -356,7 +353,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653948132596</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Completed Tasks 18, 24, 67">
+      <created>1654098551522</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1654098551522</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -396,6 +400,7 @@
     <MESSAGE value="Completed Task 21" />
     <MESSAGE value="Completed Task 22" />
     <MESSAGE value="Completed Task 23 YATTA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed Task 23 YATTA" />
+    <MESSAGE value="Completed Tasks 18, 24, 67" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed Tasks 18, 24, 67" />
   </component>
 </project>

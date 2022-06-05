@@ -16,8 +16,8 @@ def give_nth_permutation(n_string, n, p_permutation):
         permutation = p_permutation
         max_permutations = math.factorial(len(n_string))
         index_calculate = max_permutations / len(n_string)
-        needed_index = int(n//index_calculate)
-        new_n = int((n-1) - (needed_index * index_calculate))
+        needed_index = math.floor((n-1)//index_calculate)
+        new_n = math.floor(n - (needed_index * index_calculate))
         new_n_string = n_string.replace(n_string[needed_index], "")
         permutation = permutation + n_string[needed_index]
         print("n: " + str(n))
